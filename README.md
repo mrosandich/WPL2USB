@@ -3,7 +3,7 @@ WPL2USB
 
 Takes a Windows Play List and copies the music files to a USB drive or any other selected drive/folder
 
-This is written in c# using visual studio 2012.
+This is written in c# using visual studio 2012 and set to .net 4.5.
 
 If you download open the WPL2USB.sln solution file with studio 2012
 
@@ -24,3 +24,5 @@ Clean Names: This remove any letters that don't fall into A-Z, a-z, 0-9, -,. , [
 if you just need to copy and keep artist/album paths, just uncheck the Use Playlist Name option.
 
 
+
+Please go to http://ourace.com/130-wpl2usb for an extra information
